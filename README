@@ -1,0 +1,6 @@
+Script that updates a google docs spreadsheet according to the events registered in a google calendar.
+To use create a calendar named timesheet and create an event for each continous slab of time spent working.
+Create a google spreadsheet.
+Click on the tool menu and select Script Editor.
+Paste the contents of the file generateTimesheet.js and click the run button.
+The spread sheet should now fill up with dates and how many hours you spent working that day.
